@@ -1,2 +1,2 @@
 ## Benim becerilerim:
-<img src="LINK" width="10%">
+<img src="[LINK](https://storage.tally.so/3f9bac6c-8fd5-40ae-a50b-096d362d2fe8/136443.png)" width="10%">
